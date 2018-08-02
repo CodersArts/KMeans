@@ -30,3 +30,10 @@ plt.imshow(wordcloud)
 plt.axis('off')
 plt.show()
 fig.savefig("word1.png", dpi=900)
+
+
+
+=====================================
+References 
+1 https://pypi.org/project/pytagcloud/ (*****)
+2 https://www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781784390150/11/ch11lvl1sec71/creating-a-wordcloud
