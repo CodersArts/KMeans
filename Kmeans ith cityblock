@@ -1,3 +1,6 @@
 opts = statset('Display','final');
 [idx,C] = kmeans(X,2,'Distance','cityblock',...
     'Replicates',5,'Options',opts);
+
+reference:
+https://www.mathworks.com/help/stats/kmeans.html
