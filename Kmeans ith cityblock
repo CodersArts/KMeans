@@ -4,3 +4,6 @@ opts = statset('Display','final');
 
 reference:
 https://www.mathworks.com/help/stats/kmeans.html
+https://www.coursera.org/lecture/machine-learning-data-analysis/running-a-k-means-cluster-analysis-in-python-pt-2-XJJz2
+https://www.datacamp.com/community/tutorials/k-means-clustering-python
+http://stackabuse.com/k-means-clustering-with-scikit-learn/
